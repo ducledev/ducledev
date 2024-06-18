@@ -44,6 +44,7 @@ Here are the skills and experiences I have acquired during my work
 - Grafana
 - Prometheus
 - Loki
+- ELK stack (Elasticsearch, Logstash, and Kibana)
 
 Feel free to reach out if you have any questions.
 
